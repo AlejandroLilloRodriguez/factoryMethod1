@@ -8,7 +8,7 @@ public class Triangulo extends Poligono{
 
     @Override
     public String getDescription() {
-        return "Soy un triángulo ;
+        return "Soy un triángulo ";
     }
 
     @Override

@@ -9,10 +9,12 @@ public class PoligonoFactory implements PoligonoFactoryMethod {
             return new Circulo(numero);
         }
         else if ( numero==3 ) {
-            return new Triangulo(numero););
+            return new Triangulo(numero);
         }
         else if(numero==4){
             return new Cuadrado(numero);
         }
+        else
+            return null;
     }
 }

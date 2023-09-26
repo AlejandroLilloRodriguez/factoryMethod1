@@ -12,7 +12,7 @@ public abstract class Poligono {
         return numero;
     }
 
-    public void setnumero(int ladoA) {
+    public void setnumero(int numero) {
     this.numero = numero;
     }
 
