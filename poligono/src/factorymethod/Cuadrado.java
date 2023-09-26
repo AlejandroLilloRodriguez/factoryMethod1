@@ -1,6 +1,6 @@
 package factorymethod;
 
-public class Equilatero extends POligono {
+public class Equilatero extends Poligono {
 
     public Equilatero(int numero) {
         super(numero);

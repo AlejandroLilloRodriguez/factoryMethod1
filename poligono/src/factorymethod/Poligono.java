@@ -4,7 +4,7 @@ public abstract class Poligono {
     private int numero;
 
     //Constructor
-    public Triangulo(int numero) {
+    public Poligono(int numero) {
         this.numero= numero;
     }
     
